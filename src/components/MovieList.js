@@ -4,6 +4,7 @@ import './MovieList.css';
 function MovieList(props)
 {
     const {movies = [] } = props;
+    console.log(movies);
 
     return(
         <div className='movies'>
