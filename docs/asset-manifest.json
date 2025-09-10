@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/pv_319_music/static/css/main.d89073bb.css",
+    "main.js": "/pv_319_music/static/js/main.ef3b0659.js",
+    "static/media/logo.svg": "/pv_319_music/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/pv_319_music/index.html",
+    "main.d89073bb.css.map": "/pv_319_music/static/css/main.d89073bb.css.map",
+    "main.ef3b0659.js.map": "/pv_319_music/static/js/main.ef3b0659.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d89073bb.css",
+    "static/js/main.ef3b0659.js"
+  ]
+}
